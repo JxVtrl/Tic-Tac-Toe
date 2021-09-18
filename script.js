@@ -50,6 +50,7 @@ function estadoInicial() {
     
     console.log('Player 1')
     player_1.classList.add('active')
+    player_2.classList.remove('active')
 }
             
 function inicioJogo(turn) {
