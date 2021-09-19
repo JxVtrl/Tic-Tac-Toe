@@ -48,7 +48,6 @@ function estadoInicial() {
         <div id="cel-9" class="celula"></div>
     </div>`
     
-    console.log('Player 1')
     player_1.classList.add('active')
     player_2.classList.remove('active')
 }
